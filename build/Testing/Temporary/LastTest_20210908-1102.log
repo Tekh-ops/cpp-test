@@ -1,0 +1,41 @@
+Start testing: Sep 08 18:29 IST
+----------------------------------------------------------
+1/1 Testing: cpp_project_tests
+1/1 Test: cpp_project_tests
+Command: "/Users/mac/Desktop/vs/build/test/cpp_project_tests"
+Directory: /Users/mac/Desktop/vs/build/test
+"cpp_project_tests" start time: Sep 08 18:29 IST
+Output:
+----------------------------------------------------------
+[==========] Running 4 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from BankAccountTest
+[ RUN      ] BankAccountTest.BankAccountStartsEmpty
+BankAccountStartsEmpty
+[       OK ] BankAccountTest.BankAccountStartsEmpty (0 ms)
+[ RUN      ] BankAccountTest.BankAccountCanBeDeposited
+Balance: 100
+[       OK ] BankAccountTest.BankAccountCanBeDeposited (0 ms)
+[----------] 2 tests from BankAccountTest (0 ms total)
+
+[----------] 2 tests from Default/withdrawAccountTest
+[ RUN      ] Default/withdrawAccountTest.FinalBalance/0
+FinalBalance: 50
+[       OK ] Default/withdrawAccountTest.FinalBalance/0 (0 ms)
+[ RUN      ] Default/withdrawAccountTest.FinalBalance/1
+FinalBalance: 100
+[       OK ] Default/withdrawAccountTest.FinalBalance/1 (0 ms)
+[----------] 2 tests from Default/withdrawAccountTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"cpp_project_tests" end time: Sep 08 18:29 IST
+"cpp_project_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 08 18:29 IST

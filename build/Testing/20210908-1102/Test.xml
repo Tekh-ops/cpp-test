@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20210908-1102-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.21.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="Darwin-Dracula.local"
+	OSRelease="11.5.2"
+	OSVersion="20G95"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Sep 08 18:29 IST</StartDateTime>
+		<StartTestTime>1631105969</StartTestTime>
+		<TestList>
+			<Test>./test/cpp_project_tests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>cpp_project_tests</Name>
+			<Path>./test</Path>
+			<FullName>./test/cpp_project_tests</FullName>
+			<FullCommandLine>/Users/mac/Desktop/vs/build/test/cpp_project_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.119883</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/mac/Desktop/vs/build/test/cpp_project_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNU8FOwzAMvecrfGSHdt0El0kcNjo4IAFa4VTtYNoMKlKnSlwq/p6wTlVXaIkvkRO/5+cXOb3uYg+7mqigN7gElpYtHIwuYXlMwNaFO0ORBl3s4U7pV1RtgaTPwmgqJbliyUFdDYqXfdYN0sc6y3RN/OxuRQq7lwc4xn74GPbyhNGw3ZYVf4mR67Slgcd7byq4iKC0M28VN0gbGctKW2dK7oQopEyuYBFF3u3POToFvo61AGDNqGZiAhfLA9aK503B77nBZtT1icLwtiBUpzHnkeinK7gaDO1P9Kfv3vDFQMcv9/2Z/rd/gmvqK8Y2hCWaINcNibS/geObBwYpPO/kZn1aJ8k2/nHthAzFNxQ7OrM=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 08 18:29 IST</EndDateTime>
+		<EndTestTime>1631105969</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
